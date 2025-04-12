@@ -91,6 +91,11 @@ Edit
 
 ---
 
+
+## Screenshots 
+![image](https://github.com/user-attachments/assets/71fb11f4-16b5-43b6-b3a8-e6bcd1f34b15)
+![image](https://github.com/user-attachments/assets/42a8dfb0-cabb-4598-9c45-606335d95025)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
@@ -105,7 +110,3 @@ Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 - GitHub: [@Vikas717-creator](https://github.com/Vikas717-creator)  
 - LinkedIn: [Vikas Thakur](https://www.linkedin.com/in/vikas-thakur-2304a6261/)
-## Screenshots 
-![image](https://github.com/user-attachments/assets/71fb11f4-16b5-43b6-b3a8-e6bcd1f34b15)
-![image](https://github.com/user-attachments/assets/42a8dfb0-cabb-4598-9c45-606335d95025)
-
