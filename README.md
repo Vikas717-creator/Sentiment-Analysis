@@ -1,4 +1,4 @@
-# 💬 Twitter Tweet Sentiment Analysis
+ v# 💬 Twitter Tweet Sentiment Analysis
 
 A machine learning project for classifying the **sentiment of tweets** (Positive, Negative, Neutral) using **TF-IDF** and **Multinomial Naive Bayes**. Built to analyze public opinion and trends from social media data.
 
@@ -29,23 +29,11 @@ A machine learning project for classifying the **sentiment of tweets** (Positive
 1. Clone the repo:
 git clone https://github.com/Vikas717-creator/twitter-sentiment-analysis.git cd twitter-sentiment-analysis
 
-markdown
-Copy
-Edit
-
 2. Install the required packages:
 pip install -r requirements.txt
 
-markdown
-Copy
-Edit
-
 3. Run the script:
 python sentiment_analysis.py
-
-yaml
-Copy
-Edit
 
 4. Input a tweet and see the predicted sentiment!
 
