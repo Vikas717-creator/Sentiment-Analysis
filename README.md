@@ -1,4 +1,4 @@
- v# 💬 Twitter Tweet Sentiment Analysis
+ # 💬 Twitter Tweet Sentiment Analysis
 
 A machine learning project for classifying the **sentiment of tweets** (Positive, Negative, Neutral) using **TF-IDF** and **Multinomial Naive Bayes**. Built to analyze public opinion and trends from social media data.
 
